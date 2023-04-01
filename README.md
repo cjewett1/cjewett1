@@ -30,6 +30,19 @@ I'm also a resourceful individual who enjoys a challenge. I take pride in delive
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjewett1&layout=compact&theme=dark)](https://github.com/cjewett1/github-readme-stats)
 
+
+<details>
+  <summary><h2>When i'm not coding I am...</h2></summary>
+  
+  - Watching one too many horror movies 😱
+  
+  - Playing with my 3 animals. I have 2 cats and a dog!
+  
+  - Hanging out or making dinner with my wonderful wife
+  
+  - Playing something on my gaming pc!
+</details>
+
 ## Connect with me
 [![Phone](https://img.shields.io/badge/Phone-%23333.svg?&style=for-the-badge&logo=telephone&logoColor=white)](tel:+7802424053)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:clintondgorda@gmail.com)
