@@ -21,6 +21,7 @@ I'm also a resourceful individual who enjoys a challenge. I take pride in delive
 ```
   - Easy myoozik 
   - My capstone project!
+  - Improving my JavaScript and React skills
   - Learning the MERN stack
 ```
 
