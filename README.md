@@ -2,7 +2,7 @@
 
 <h3>I'm a Junior Web Developer <img src="https://user-images.githubusercontent.com/83998647/229268354-3f8b0a6e-3f62-4c8e-9fda-7411f09baef8.png" alt="my-personal-logo" align="right"></h3>
 
-As an enthusiastic lover of all things computer-related, I have an insatiable curiosity when it comes to website development and the intricate mechanics of how it all fits together. There’s just something about the way that digital code can bring complex designs and ideas to life that never fails to capture my imagination.
+As an enthusiastic lover of all things computer-related, I have an insatiable curiosity when it comes to website development and the intricate mechanics of how it all fits together. There’s just something about the way that coding can bring complex designs and ideas to life that never fails to capture my imagination.
 
 I'm also a resourceful individual who enjoys a challenge. I take pride in delivering high-quality work and prioritizing the users experience. With a strong sense of ownership and responsibility, I am always willing to go above and beyond. I may not know everything, and belive me, I dont, but I am always willing to put in the time to learn and adapt. I graduate from NAIT's Web Design and Development program in May and I am beyond excited to start my career in this wonderful industry. Thanks for stopping by!
 
