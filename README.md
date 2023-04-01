@@ -35,6 +35,7 @@ I'm also a resourceful individual who enjoys a challenge. I take pride in delive
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:clintondgorda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clintonjewett/)
 [![Discord](https://img.shields.io/badge/Discord-clint(booma)%234826-%237289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/clint(booma)#4826)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check%20out%20my%20website-blue?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.clinton-gorda.com)
 
 [![Resume](https://img.shields.io/badge/Resume-View%20my%20resume-orange?style=for-the-badge&logo=Resume-Icons&logoColor=white)](https://drive.google.com/file/d/1fO-yFbp0v9N1611nk4rxw1zoYp_w1jmg/view?usp=sharing)
