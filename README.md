@@ -47,9 +47,8 @@ I'm also a resourceful individual who enjoys a challenge. I take pride in delive
   
   - Playing with my 3 animals. I have 2 cats and a dog!
   
-  - Hanging out or making dinner with my wonderful wife
-  
-  - Playing something on my gaming pc!
+  - Making dinner or spending time with my wonderful wife (we are currently obssessed with The Binding of Isaac and Wingspan)
+
 </details>
 
 ## Connect with me
