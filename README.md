@@ -1,6 +1,9 @@
-<h2>Hi there, my name is Clint! 👋  Welcome to my little corner of the internet! 😄 <img src="https://komarev.com/ghpvc/?username=cjewett1&style=for-the-badge" alt="Profile Views" align="right"></h2>
+<h2>Hi there, my name is Clint! 👋 <img src="https://komarev.com/ghpvc/?username=cjewett1&style=for-the-badge" alt="Profile Views" align="right"></h2>
 
-<h3>I'm a Junior Web Developer <img src="https://user-images.githubusercontent.com/83998647/229268354-3f8b0a6e-3f62-4c8e-9fda-7411f09baef8.png" alt="my-personal-logo" align="right"></h3>
+Welcome to my little corner of the internet. 😄
+
+
+<h3>I'm a Junior Web Developer. <img src="https://user-images.githubusercontent.com/83998647/229268354-3f8b0a6e-3f62-4c8e-9fda-7411f09baef8.png" alt="my-personal-logo" align="right"></h3>
 
 As an enthusiastic lover of all things computer-related, I have an insatiable curiosity when it comes to website development and the intricate mechanics of how it all fits together. There’s just something about the way that coding can bring complex designs and ideas to life that never fails to capture my imagination.
 
