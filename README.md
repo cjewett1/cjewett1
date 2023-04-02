@@ -1,4 +1,4 @@
-<h2>Hi there, my name is Clint! 😄 <img src="https://komarev.com/ghpvc/?username=cjewett1&style=for-the-badge" alt="Profile Views" align="right"></h2>
+<h2>Hi there, my name is Clint! 👋  Welcome to my little corner of the internet! 😄 <img src="https://komarev.com/ghpvc/?username=cjewett1&style=for-the-badge" alt="Profile Views" align="right"></h2>
 
 <h3>I'm a Junior Web Developer <img src="https://user-images.githubusercontent.com/83998647/229268354-3f8b0a6e-3f62-4c8e-9fda-7411f09baef8.png" alt="my-personal-logo" align="right"></h3>
 
