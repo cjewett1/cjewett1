@@ -14,7 +14,7 @@ I'm also a resourceful individual who enjoys a challenge. I take pride in delive
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,react,nextjs,php,wordpress,figma,photoshop,illustrator)](https://skills.thijs.gg) 
 
 
-## I am learning 
+## When I have time I am learning 
 
 [![My SKills](https://skills.thijs.gg/icons?i=ts,nodejs,expressjs,mongodb)](https://skills.thijs.gg)
 
