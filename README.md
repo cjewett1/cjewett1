@@ -7,7 +7,7 @@ Welcome to my little corner of the internet. 😄
 
 As an enthusiastic lover of all things computer-related, I have an insatiable curiosity when it comes to website development and the intricate mechanics of how it all fits together. There’s just something about the way that coding can bring complex designs and ideas to life that never fails to capture my imagination.
 
-I'm also a resourceful individual who enjoys a challenge. I take pride in delivering high-quality work and prioritizing the users experience. With a strong sense of ownership and responsibility, I am always willing to go above and beyond. I may not know everything, and believe me, I dont, but I am always willing to put in the time to learn and adapt. I graduate from NAIT's Web Design and Development program at the end of April and I am beyond excited to start my career in this wonderful industry. Thanks for stopping by!
+I'm also a resourceful individual who enjoys a challenge. I take pride in delivering high-quality work and prioritizing the users experience. With a strong sense of ownership and responsibility, I am always willing to go above and beyond. I may not know everything, and believe me, I dont, but I am always willing to put in the time to learn and adapt. I am a recent graduate from  NAIT's Web Design and Development program and I am beyond excited to start my career in this wonderful industry. Thanks for stopping by!
 
 ## My Skills  
 
