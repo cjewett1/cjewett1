@@ -9,30 +9,6 @@ As an enthusiastic lover of all things computer-related, I have an insatiable cu
 
 I'm also a resourceful individual who enjoys a challenge. I take pride in delivering high-quality work and prioritizing the users experience. With a strong sense of ownership and responsibility, I am always willing to go above and beyond. I may not know everything, and believe me, I dont, but I am always willing to put in the time to learn and adapt. I am a recent graduate from  NAIT's Web Design and Development program and I am beyond excited to start my career in this wonderful industry. Thanks for stopping by!
 
-## My Skills  
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,sass,react,nextjs,php,wordpress,figma,photoshop,illustrator)](https://skills.thijs.gg) 
-
-
-## When I have time I am learning 
-
-[![My SKills](https://skills.thijs.gg/icons?i=ts,nodejs,expressjs,mongodb)](https://skills.thijs.gg)
-
-
-## What im working on
-
-```
-  - Easy myoozik 
-  - My capstone project!
-  - Improving my JavaScript and React skills
-```
-
-## What I plan to do
-```
-  - Learn the MERN stack
-```
-
-
 ## My Stats
 
 ![Clints's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjewett1&show_icons=true&theme=dark) 
