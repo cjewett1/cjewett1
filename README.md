@@ -55,7 +55,6 @@ I'm also a resourceful individual who enjoys a challenge. I take pride in delive
 [![Phone](https://img.shields.io/badge/Phone-%23333.svg?&style=for-the-badge&logo=telephone&logoColor=white)](tel:+7802424053)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:clintondgorda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clintonjewett/)
-[![Discord](https://img.shields.io/badge/Discord-clint(booma)%234826-%237289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/clint(booma)#4826)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check%20out%20my%20website-blue?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.clinton-gorda.com)
 
